@@ -29,7 +29,7 @@ Peformed the data analysis using various data analytical tools to create the das
 * Technologies Used:
 	* Microsoft Power BI  
   
-## 5.[Analytics using MS Azure Data Lake](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/tree/master/Analytics%20using%20MS%20Azure%20Data%20Lake)
+## 5.  [Analytics using MS Azure Data Lake](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/tree/master/Analytics%20using%20MS%20Azure%20Data%20Lake)
 Converted and imported the CSV format file in the Microsoft Azure Data Lake using U-SQL. Extracted the requested information from the data set and stored in the CSV file. Downloaded the new CSV file and loaded it in the Microsoft PowerBI to generate dashboard as well as various graphs.
 * Technologies Used:
 	* Microsoft Azure Data Lake
