@@ -4,7 +4,7 @@ This mini project compares conventional RDBMS using MySQL and no structure DBMS 
 
 
 ### Report for the project
-Report can be found [here]().
+Report can be found [here](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/blob/master/Relational%20DBMS%20(MySQL)%20vs%20NoSQL/Report.pdf).
 
 ## Installation guide for ELasticSearch and MYSQL
 
