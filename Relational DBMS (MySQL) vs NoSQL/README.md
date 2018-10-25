@@ -6,11 +6,11 @@ This mini project compares conventional RDBMS using MySQL and no structure DBMS 
 ### Report for the project
 Report can be found [here](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/blob/master/Relational%20DBMS%20(MySQL)%20vs%20NoSQL/Report.pdf).
 
-## Installation guide for ELasticSearch and MYSQL
+### Installation guide for ELasticSearch and MYSQL
 
 Installation steps is for Ubuntu OS.
 
-### Installation steps for MYSQL:
+#### Installation steps for MYSQL:
 
 1. Update the packages if there any:
  >> * sudo apt-get update
