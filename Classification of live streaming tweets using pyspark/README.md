@@ -3,7 +3,7 @@
 In this project, performed the classification on live data streaming from social media platform (Twitter) by using the big data analytical tool (Apache Spark).
 
 ### Report for the project
-Report can be found [here]().
+Report can be found [here](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/blob/master/Classification%20of%20live%20streaming%20tweets%20using%20pyspark/Report.pdf).
 
 ### Installation
 
