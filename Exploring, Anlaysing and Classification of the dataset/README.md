@@ -3,7 +3,7 @@
 Identified the patterns through simulation of data. Data was initially cleaned and processed. The processed data was explored and anlysed using various plots. Finally, based on the analysis patterns were identified using machine learning algorithms applied using sklearn.
 
 ### Report for the project
-Report can be found [here]().
+Report can be found [here](https://github.com/dalalbhargav07/Data-Warehousing-to-Data-Analytics/blob/master/Exploring%2C%20Anlaysing%20and%20Classification%20of%20the%20dataset/Report.pdf).
 
 ### Installation
 
