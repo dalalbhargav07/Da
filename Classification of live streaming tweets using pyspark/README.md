@@ -62,4 +62,4 @@ python tweepy_stream.py
 $SPARK_HOME/bin/spark-submit spark_predict_output.py
 ```
 
-Finally, the output csv file will be saved in the path "data/output_data" as output.csv
+Finally, the output csv file will be saved in the path "data/output_data" as output.csv.
