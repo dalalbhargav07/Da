@@ -2,9 +2,6 @@
 
 Peformed the data analysis using various data analytical tools to create the dashboard as well as varied graphs to extract the intelligent information from the data.
 
-### Report for the project
-Report can be found [here]().
-
 ### Data
 The data was downloaded from this [source](https://catalogue-hrm.opendata.arcgis.com/datasets/building-permits).
 
